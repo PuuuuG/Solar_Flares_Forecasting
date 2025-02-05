@@ -1,4 +1,4 @@
-# Solar_Flares_Forecasting
+# Solar_Flares_Forecasting_ZSH
 
 This project leverages Vision Transformer (ViT) and iTransformer models for flare forecasting. The code encompasses data preprocessing, model training, validation, and predictive testing. 
 
